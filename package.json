@@ -35,7 +35,8 @@
     "lint": "eslint src/ --ext .tsx,.ts,.jsx,.js",
     "now-build": "npm run build",
     "prepublishOnly": "npm run compile && np --no-cleanup --yolo --no-publish",
-    "test": "father test"
+    "test": "father test",
+    "prepare": "npm run compile"
   },
   "dependencies": {
     "@babel/runtime": "^7.24.7",
