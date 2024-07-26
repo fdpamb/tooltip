@@ -39,7 +39,7 @@
     "prepare": "npm run compile"
   },
   "dependencies": {
-    "@babel/runtime": "^7.24.7",
+    "@babel/runtime": "^7.24.8",
     "classnames": "^2.5.1",
     "rc-trigger": "github:fdpamb/trigger#upgrade-5.x"
   },
@@ -50,16 +50,16 @@
     "@types/react-dom": "^18.3.0",
     "@types/warning": "^3.0.3",
     "cross-env": "^7.0.3",
-    "dumi": "^2.4.5",
-    "eslint": "^9.6.0",
+    "dumi": "^2.4.6",
+    "eslint": "^9.7.0",
     "father": "^2.30.23",
     "father-build": "^1.22.5",
     "gh-pages": "^6.1.1",
     "less": "^3.13.1",
-    "np": "^10.0.6",
+    "np": "^10.0.7",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.4"
   },
   "maintainers": [
     "yiminghe@gmail.com"
