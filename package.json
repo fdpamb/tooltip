@@ -40,7 +40,7 @@
   "dependencies": {
     "@babel/runtime": "^7.27.0",
     "classnames": "^2.5.1",
-    "rc-trigger": "github:fdpamb/trigger#upgrade-5.x"
+    "rc-trigger": "5.3.4"
   },
   "devDependencies": {
     "@testing-library/react": "^16.2.0",
