@@ -45,7 +45,7 @@
   "devDependencies": {
     "@testing-library/react": "^16.2.0",
     "@types/jest": "^29.5.14",
-    "@types/react": "^18.3.24",
+    "@types/react": "^18.3.25",
     "@types/react-dom": "^18.3.7",
     "@types/warning": "^3.0.3",
     "cheerio": "1.0.0-rc.12",
@@ -58,7 +58,7 @@
     "np": "^10.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.3"
   },
   "maintainers": [
     "yiminghe@gmail.com"
@@ -66,5 +66,22 @@
   "peerDependencies": {
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"
+  },
+  "overrides": {
+    "@rollup/plugin-node-resolve": {
+      "es5-ext": "0.10.53"
+    },
+    "es6-iterator": {
+      "es5-ext": "0.10.53"
+    },
+    "d": {
+      "es5-ext": "0.10.53"
+    },
+    "rst-selector-parser": {
+      "es5-ext": "0.10.53"
+    },
+    "JSONStream": {
+      "es5-ext": "0.10.53"
+    }
   }
 }
