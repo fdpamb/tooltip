@@ -177,6 +177,117 @@
     "rc-menu": {
       "gh-pages": "^6.3.0"
     },
+    "rc-mentions": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-trigger": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-align": {
+      "gh-pages": "^6.3.0"
+    },
+    "add-dom-event-listener": {
+      "gh-pages": "^6.3.0"
+    },
+    "omit.js": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-dropdown": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-rate": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-tree-select": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-slider": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-dialog": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-upload": {
+      "gh-pages": "^6.3.0"
+    },
+    "antd": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-switch": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-table": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-resize-observer": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-collapse": {
+      "gh-pages": "^6.3.0"
+    },
+    "async-validator": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-pagination": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-steps": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-input-number": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-form": {
+      "gh-pages": "^6.3.0"
+    },
+    "@ant-design/css-animation": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-checkbox": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-editor-mention": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-cascader": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-time-picker": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-motion": {
+      "gh-pages": "^6.3.0"
+    },
+    "react-simple-code-editor": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-animate": {
+      "gh-pages": "^6.3.0"
+    },
+    "css-animation": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-editor-core": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-select": {
+      "gh-pages": "^6.3.0"
+    },
+    "dom-scroll-into-view": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-notification": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-progress": {
+      "gh-pages": "^6.3.0"
+    },
+    "rc-calendar": {
+      "gh-pages": "^6.3.0"
+    },
+    "rmc-feedback": {
+      "gh-pages": "^6.3.0"
+    },
     "@storybook/addon-actions": {
       "gh-pages": "^6.3.0"
     },
